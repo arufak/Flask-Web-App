@@ -1,0 +1,13 @@
+# flask for database models (login, sign up etc.)
+# __init__.py makes the folder a package
+
+1. import from the specific website file and register the blueprint in __init__.py (one time)
+
+Route Steps:
+1. @route._____ and then def 
+        @auth.route('/login')
+        def login():
+        return "<p>Login</p>"
+
+# save static things in static folder and then use it in templates
+# use the html document in  
