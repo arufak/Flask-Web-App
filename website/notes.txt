@@ -10,4 +10,9 @@ Route Steps:
         return "<p>Login</p>"
 
 # save static things in static folder and then use it in templates
-# use the html document in  
+# use the base html document in other html files
+
+GET request retrieves information
+POST request updates or creates something
+(UPDATE, DELETE etc.)
+
