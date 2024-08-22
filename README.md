@@ -10,7 +10,7 @@ Database Integration: Notes are stored in a database and are associated with ind
 
 ## Setup & Installation
 
-Make sure you have the latest version of Python installed.
+Make sure you have the latest version of Python installed. 
 
 git clone <repo-url>
 
@@ -23,3 +23,7 @@ python main.py
 ## Viewing the App
 
 Go to http://127.0.0.1:5000
+
+## App Demo
+
+Watch the website demo by downloading the App Demo file, which includes a video showcasing the features.
